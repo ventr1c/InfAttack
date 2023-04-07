@@ -1,4 +1,4 @@
-# Evasion Attacks to Graph Neural Networks via Influence Function
+# Efficient, Direct, and Restricted Black-Box Graph Evasion Attacks to Any-Layer Graph Neural Networks via Influence Function
 ## Running the code
 For example, to check the performance of our one-time white box attack against GCN in cora dataset, run the following code:
 ```
