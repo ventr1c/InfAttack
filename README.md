@@ -6,5 +6,5 @@ cd OTA
 ```
 
 ```
-python main.py --attack_object white --model GCN --dataset cora --attack_algorithm one-time 
+python main.py --attack_object white --model GCN --dataset cora --attack_algorithm one-time
 ```
