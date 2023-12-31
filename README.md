@@ -1,5 +1,5 @@
 # Efficient, Direct, and Restricted Black-Box Graph Evasion Attacks to Any-Layer Graph Neural Networks via Influence Function
-An official PyTorch implementation of "Efficient, Direct, and Restricted Black-Box Graph Evasion Attacks to Any-Layer Graph Neural Networks via Influence Function" (WSDM 2024). [[paper]]()
+An official PyTorch implementation of "Efficient, Direct, and Restricted Black-Box Graph Evasion Attacks to Any-Layer Graph Neural Networks via Influence Function" (WSDM 2024). [[paper]](https://arxiv.org/abs/2009.00203)
 ## Note
 The code has not been organized yet. We will organize it as soon as possible. Thanks.
 
